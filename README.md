@@ -1,5 +1,5 @@
 # Programming for data analysis Assignment 2020
-![](JPN.png)
+![](JPN.png.png)
 [-Image from google images](https://www.google.com/search?q=numpy+image&tbm=isch&ved=2ahUKEwip97-k183sAhUBwOYKHU8vA9MQ2-cCegQIABAA&oq=numpy+image&gs_lcp=CgNpbWcQAzIECCMQJzIGCAAQCBAeMgQIABAYMgQIABAYMgQIABAYMgQIABAYMgQIABAYMgQIABAYMgQIABAYMgQIABAYOgQIABBDOgUIABCxAzoCCAA6BAgAEB5Q1DRYkkdg5UhoAXAAeAGAAfMBiAH6CJIBBjExLjAuMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=rFqUX6nxE4GAmwfP3oyYDQ&bih=912&biw=1920#imgrc=Ad-mz6e_S55KMM)
 <p style='text-align: right;'>
 </p>
